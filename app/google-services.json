@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "305068574872",
+    "firebase_url": "https://pahilaproject.firebaseio.com",
+    "project_id": "pahilaproject",
+    "storage_bucket": "pahilaproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305068574872:android:b5e1da4ca162aab4",
+        "android_client_info": {
+          "package_name": "com.example.dhanraj.splashscreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305068574872-ksietpeiqtq4cc9vjeukbakq2do3tqqn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dhanraj.splashscreen",
+            "certificate_hash": "09f8f77d303fc51922887b1edbf05210cc8f4440"
+          }
+        },
+        {
+          "client_id": "305068574872-b9im32jp31mssbers897g1t4kjbgkhma.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "305068574872-fppua19jt7mfrel6ns2vrrnd375mtpco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTuVHfDJgUam5zu2avDiHJ-j8kpmrD7CY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305068574872-b9im32jp31mssbers897g1t4kjbgkhma.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
